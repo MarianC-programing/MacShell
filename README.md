@@ -1,5 +1,7 @@
 <h1 align="center">MacShell</h1>
 
+<p align="center"><sub><i>Fork of <a href="https://github.com/0-ss/MacShell">0-ss/MacShell</a> by Rickky, with added Debian 13 support. See <a href="docs/DEBIAN.md">docs/DEBIAN.md</a>.</i></sub></p>
+
 <p align="center">
   A macOS Tahoe–style <b>menu bar + Dock</b> for Hyprland, built on <a href="https://quickshell.org">Quickshell</a>,<br>
   with a real-time <b>Liquid Glass</b> refraction shader, and a lock screen, <b>MacLock</b>.
